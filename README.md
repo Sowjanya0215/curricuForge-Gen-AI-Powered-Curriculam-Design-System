@@ -30,5 +30,4 @@ Future Enhancements
 • Skill-based curriculum recommendations
 • Cloud deployment
 
-Author
-Sowjanya
+
